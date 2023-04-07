@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44039982649",
+    "project_id": "onlineweddinghallbooking-4c38a",
+    "storage_bucket": "onlineweddinghallbooking-4c38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44039982649:android:a5e83dae42758b00d047e8",
+        "android_client_info": {
+          "package_name": "com.example.onlineweddinghallbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44039982649-mua4373e2178mdjo4ibv31ai7b2gapqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADNl5_vK1lL6HzzeMTwRUoI19TRcR9z3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44039982649-mua4373e2178mdjo4ibv31ai7b2gapqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

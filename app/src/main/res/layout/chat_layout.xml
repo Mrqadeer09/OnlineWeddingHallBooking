@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="@dimen/_10sdp"
+    android:background="@drawable/relative_layout_without_bottom_border">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/receiverImage"
+        android:layout_width="@dimen/_34sdp"
+        android:layout_height="@dimen/_34sdp"
+        android:src="@drawable/ic_person"
+        android:layout_marginTop="@dimen/_1sdp"/>
+
+    <TextView
+        android:layout_width="@dimen/_116sdp"
+        android:layout_height="wrap_content"
+        android:text="Receiver Name"
+        android:layout_toRightOf="@id/receiverImage"
+        android:textSize="@dimen/_14sdp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:id="@+id/receiverNameTV"/>
+
+    <TextView
+        android:id="@+id/msgDateTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="yyyy/MM/dd HH:mm"
+        android:textColor="#808080"
+        android:textSize="@dimen/_10sdp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Message"
+        android:layout_toRightOf="@id/receiverImage"
+        android:textSize="@dimen/_12sdp"
+        android:textColor="#808080"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_below="@id/receiverNameTV"
+        android:id="@+id/latestMsgTV"/>
+
+
+
+</RelativeLayout>

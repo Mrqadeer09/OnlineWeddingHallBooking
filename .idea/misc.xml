@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/bottom_navigation_background.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/bottom_navigation_menu.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/ic_city_hall_background.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/ic_error.xml" value="0.168" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/ic_filter.xml" value="0.168" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/ic_forward.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/ic_username.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/message_background.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/receiver_message_background.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/rectangle_with_border_radius.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/relative_layout_with_border.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/relative_layout_with_shadow.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/relative_layout_without_bottom_border.xml" value="0.1165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/rounded_edit_text.xml" value="0.168" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/drawable/sender_message_background.xml" value="0.116" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_add_venue.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_add_venue1.xml" value="0.304" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_add_venue2.xml" value="0.24649859943977592" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_add_venue3.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_all_chats_view.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_booking1.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_chat.xml" value="0.18" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_customer_email_edit.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_customer_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_customer_name_edit.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_customer_password_edit.xml" value="0.1600877192982456" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_customer_phone_edit.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_customer_profile.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_decoration_pricing.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_filter_venue.xml" value="0.23902439024390243" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_forgot_password.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_menu_options.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_menu_recommendation.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_menu_recommendation2.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_menu_selection.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_my_booking_details.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_my_bookings.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_payment_method_selection.xml" value="0.21" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_registration.xml" value="0.22320117474302498" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_registration1.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_registration2.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_service_provider_home_page.xml" value="0.20363636363636364" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_service_provider_verification.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_set_menu_and_pricing.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_stage_pricing.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_stage_selection.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_total_cost_breakdown.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_venue_comparison.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/activity_venue_view.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/add_menu_card_view.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/add_stage_card_view.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/chat_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/chat_message_layout.xml" value="0.3603082851637765" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/gender_dropdown_item.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/location_permission_popup.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/menu_recommendation_card_view.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/my_bookings_view.xml" value="0.3638132295719844" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/nav_header_layout.xml" value="0.17105263157894737" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/progress_dialog.xml" value="0.17105263157894737" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/rating_and_review_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/rating_and_review_popup.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/rectangle_with_border_radius.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/stage_card_view.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/total_cost_breakdown_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/layout/venue_card.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/menu/customer_nav_menu.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/menu/service_provider_nav_menu.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/OnlineWeddingHallBooking/app/src/main/res/mipmap-anydpi-v26/ic_city_hall.xml" value="0.1685" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

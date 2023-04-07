@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.onlineweddinghallbooking">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/app_logo"
+        android:label="Bookinsy"
+        android:roundIcon="@drawable/app_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OnlineWeddingHallBooking"
+        tools:targetApi="31">
+        <activity
+            android:name=".MenuSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VenueComparisonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyBookingDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyBookingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PaymentMethodSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TotalCostBreakdownActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuRecommendation2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuRecommendationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuOptionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StageSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Booking1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".SetMenuAndPricingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StagePricingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DecorationPricingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AllChatsViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddVenue3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AddVenue2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AddVenue1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VenueViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerEmailEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerPasswordEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerPhoneEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerNameEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FilterVenueActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceProviderHomePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerHomePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceProviderVerificationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Registration1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

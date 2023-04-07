@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="USER">
+
+        <menu>
+
+            <item android:title="Profile"
+                android:id="@+id/profile"
+                android:icon="@drawable/ic_person"/>
+
+            <item android:title="Bookings"
+                android:id="@+id/bookings"
+                android:icon="@drawable/ic_bookings"/>
+
+        </menu>
+
+    </item>
+
+
+    <item android:title="APPLICATION">
+
+        <menu>
+
+            <item android:title="About"
+                android:id="@+id/about"
+                android:icon="@drawable/ic_about"/>
+
+            <item android:title="Logout"
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_power"/>
+
+        </menu>
+
+    </item>
+
+
+</menu>
